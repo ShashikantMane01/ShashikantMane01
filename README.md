@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShashikantMane01
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning React-Native
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Devops
 - 📫 How to reach me linkedin https://www.linkedin.com/in/shashikant-mane-5b6349227/
 
